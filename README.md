@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Burger King
+This project has created a responsive burger react app in which you can create your own burger and order online.
+
 ## Available Scripts
 
 In the project directory, you can run:
